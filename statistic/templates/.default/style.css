@@ -1,0 +1,29 @@
+.alert-info {
+    margin-bottom: 10px;
+    width: max-content;
+    padding: 10px;
+    border-radius: 6px;
+    color: #fff;
+}
+
+.simple-tab {
+    border-collapse: collapse;
+}
+
+.alert-info_warning {
+    background: #FF7F38;
+}
+
+.form-clear {
+    margin-bottom: 10px;
+}
+
+.simple-tab__cell-domen, .simple-tab__cell-count {
+    padding: 5px 15px;
+    border: 1px dashed;
+}
+
+.simple-tab__cell-domen_font-weight_bold,
+.simple-tab__cell-count_font-weight_bold {
+    font-weight: bold;
+}
